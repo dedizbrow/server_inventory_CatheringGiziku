@@ -1,0 +1,18 @@
+{
+    "noPesanan":"123",
+    "menuPesanan":[
+        {"idMenu":11,
+        "namaMenu":"menu1",
+        "jumlah":2
+        },
+        
+        {"idMenu":12,
+        "namaMenu":"menu2",
+        "jumlah":2
+        }
+    ],
+
+    "hargaTotal":50000,
+    "metodePembayaran":"Cash",
+    "status":"selesai"
+}
